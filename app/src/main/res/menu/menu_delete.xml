@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/small"
+        android:title="Small"/>
+    <item
+        android:id="@+id/medium"
+        android:title="Medium"/>
+
+    <item
+        android:id="@+id/large"
+        android:title="Large"/>
+
+</menu>
